@@ -8,6 +8,6 @@
     background-size: 100% 1200px;
 }
 
-.btn.btn-default.login {
+a.btn.btn-default.btn-small.login {
 	display: none;
 }
