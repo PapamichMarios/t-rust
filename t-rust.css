@@ -1,0 +1,13 @@
+.container-fluid .banner {
+	height: 100vh;
+}
+
+.background.fallback span {
+	background-image: url(https://i.giphy.com/media/cIaXpqoY3TVoivLdxU/source.gif);
+	background-repeat: no-repeat;
+    background-size: 100% 1200px;
+}
+
+.btn .btn-default login {
+	display: none;
+}
