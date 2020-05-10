@@ -18,5 +18,17 @@ body.v2 footer.footer .colofon {
 }
 
 body.v2.pagebuilder .container-fluid.grey {
-    background-color: #202225;
+	background-color: #202225;
+}
+
+iframe {
+	width: 100%;
+	
+	.widgetFooter-1l6LHW {
+		display: none
+	}
+}
+
+.footer .container-fluid {
+	background: #202225e6;
 }
