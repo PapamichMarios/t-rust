@@ -17,3 +17,6 @@ body.v2 footer.footer .colofon {
 	background: #545754;	
 }
 
+body.v2.pagebuilder .container-fluid.grey {
+    background-color: #202225;
+}
