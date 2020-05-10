@@ -11,3 +11,9 @@
 a.btn.btn-default.btn-small.login {
 	display: none;
 }
+
+body.v2 footer.footer .colofon {
+	padding: 30px;
+	background: #545754;	
+}
+
